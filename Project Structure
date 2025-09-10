@@ -1,0 +1,15 @@
+DataSense-AI/
+├── dashboard.py              # Main application file
+├── requirements.txt          # Python dependencies
+├── README.md                 # This file
+├── utils/                    # Utility modules
+│   ├── data_loader.py        # File loading utilities
+│   ├── Preprosseing.py      # Data preprocessing
+│   ├── nlp_processor.py      # Natural language processing
+│   ├── speech_input.py       # Voice input handling
+│   ├── plot_generator.py     # Chart generation
+│   ├── text_to_speech.py     # Text-to-speech conversion
+│   ├── kpi_analyzer.py       # KPI calculation
+│   └── pdf_export.py         # PDF report generation
+├── app.py/                     # flask code this login and signup
+└── site.db                   # SQLite database (created automatically)
