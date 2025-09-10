@@ -1,0 +1,12 @@
+app.py change this code 
+add your Mail server and password
+
+# Email configuration for notifications
+MAIL_SERVER = "smtp.gmail.com"
+MAIL_PORT = 587
+MAIL_USE_TLS = true
+MAIL_USERNAME = "your-email@gmail.com"
+MAIL_PASSWORD = "your-app-password"
+
+# AssemblyAI API key (optional for enhanced speech recognition)
+ASSEMBLYAI_API_KEY = "your-api-key"
