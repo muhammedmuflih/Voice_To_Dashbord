@@ -1,6 +1,8 @@
 app.py change this code 
 add your Mail server and password
-
+this use login page and signup page
+this information use "OTP" creation
+-------------------------------------
 # Email configuration for notifications
 MAIL_SERVER = "smtp.gmail.com"
 MAIL_PORT = 587
