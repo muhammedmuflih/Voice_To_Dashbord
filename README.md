@@ -46,3 +46,8 @@ An intelligent data exploration assistant that helps users analyze, clean, and v
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+more :- (https://muflih917.github.io/Datascence/)
+
+
+
