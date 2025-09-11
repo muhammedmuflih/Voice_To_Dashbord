@@ -1,5 +1,6 @@
 # DataSense AI
 
+![ppt](https://muflih917.github.io/Datascence/)
 ![DataSense AI Logo](https://img.shields.io/badge/DataSense-AI-blue?style=for-the-badge&logo=data&logoColor=white)
 ![Version](https://img.shields.io/badge/version-3.0-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge)
@@ -43,11 +44,11 @@ An intelligent data exploration assistant that helps users analyze, clean, and v
 - Python 3.8 or higher
 - pip package manager
 
+
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-more :- (https://muflih917.github.io/Datascence/)
 
 
 
