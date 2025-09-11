@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red?style=for-the-badge)
 
 An intelligent data exploration assistant that helps users analyze, clean, and visualize their datasets with natural language queries and voice commands.
-
+[PPT](https://muflih917.github.io/Datascence/)
 ## 🌟 Features
 
 ### 📊 Executive Dashboard
